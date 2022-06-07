@@ -1,0 +1,15 @@
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\TemplateMethodEx.csproj.AssemblyReference.cache
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\TemplateMethodEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\TemplateMethodEx.AssemblyInfoInputs.cache
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\TemplateMethodEx.AssemblyInfo.cs
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\TemplateMethodEx.csproj.CoreCompileInputs.cache
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\bin\Debug\net6.0\TemplateMethodEx.exe
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\bin\Debug\net6.0\TemplateMethodEx.deps.json
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\bin\Debug\net6.0\TemplateMethodEx.runtimeconfig.json
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\bin\Debug\net6.0\TemplateMethodEx.dll
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\bin\Debug\net6.0\TemplateMethodEx.pdb
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\TemplateMethodEx.dll
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\refint\TemplateMethodEx.dll
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\TemplateMethodEx.pdb
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\TemplateMethodEx.genruntimeconfig.cache
+C:\Users\Trung.Vo\source\repos\TemplateMethodEx\TemplateMethodEx\obj\Debug\net6.0\ref\TemplateMethodEx.dll
